@@ -1,6 +1,6 @@
 {
-    "name": "bojian/test",
-    "description": "测试",
+    "name": "bojian/meiqia",
+    "description": "test get meiqia response",
     "type": "project",
     "require": {
         "php": ">=7.2"
@@ -12,7 +12,7 @@
     "authors": [
         {
             "name": "bojian.li",
-            "email": "bojian.li@uhomes.com"
+            "email": "bojian.li@qq.com"
         }
     ],
     "minimum-stability": "dev",
