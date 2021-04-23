@@ -1,5 +1,5 @@
 {
-    "name": "bojian/meiqia",
+    "name": "bojian/meiqia-pull-conversation",
     "description": "test get meiqia response",
     "type": "project",
     "require": {
