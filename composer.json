@@ -1,0 +1,26 @@
+{
+    "name": "bojian/meiqia",
+    "description": "测试",
+    "type": "project",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "ext-curl": "*"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "bojian.li",
+            "email": "bojian.li@uhomes.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    }
+}
+
