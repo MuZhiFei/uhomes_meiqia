@@ -1,6 +1,6 @@
 {
     "name": "bojian/meiqia-pull-conversation",
-    "description": "test get meiqia response",
+    "description": "get meiqia response",
     "type": "project",
     "require": {
         "php": ">=7.2"

@@ -13,6 +13,18 @@
  */
 namespace meiqia;  // 注意命名空间与 composer.json 中的一致
 
-require_once '../vendor/autoload.php';
+class GetResponse
+{
+    private $sign;
+    private $appId;
+    private $offset;
+    private $fromTime;
+    private $endTime;
+    private $enterpriseId;
+    private $_URL = 'http://api.meiqia.com/v1/conversations';
 
-echo 'hello, world!';
+
+    public function __construct()
+    {
+    }
+}
